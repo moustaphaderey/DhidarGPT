@@ -1,0 +1,11 @@
+export const EXAMPLE_TEXT = `
+L'Intelligence Artificielle (IA) est un domaine en évolution rapide qui a transformé de nombreuses industries et aspects de notre vie quotidienne. Des assistants virtuels comme Siri et Alexa aux algorithmes de recommandation sur les plateformes de streaming, les technologies de l'IA deviennent de plus en plus sophistiquées et omniprésentes.
+
+L'apprentissage automatique, un sous-ensemble de l'IA, permet aux ordinateurs d'apprendre et de s'améliorer avec l'expérience sans être explicitement programmés. Cette technologie alimente tout, des filtres anti-spam des e-mails aux véhicules autonomes. L'apprentissage profond, qui utilise des réseaux de neurones à plusieurs couches, a particulièrement révolutionné des domaines tels que la reconnaissance d'images, le traitement du langage naturel et les jeux.
+
+Les applications de l'IA couvrent divers secteurs, notamment la santé, la finance, les transports et le divertissement. Dans le domaine de la santé, l'IA aide au diagnostic médical, à la découverte de médicaments et aux plans de traitement personnalisés. En finance, elle est utilisée pour la détection de la fraude, le trading algorithmique et l'évaluation des risques. L'industrie des transports est révolutionnée par les voitures autonomes et les systèmes d'optimisation du trafic.
+
+Cependant, l'avancement rapide de l'IA soulève également d'importantes considérations éthiques. Des questions telles que le déplacement d'emplois, les préoccupations en matière de vie privée, les biais algorithmiques et la nécessité de transparence dans les processus de prise de décision de l'IA sont au premier plan des discussions actuelles. À mesure que l'IA continue d'évoluer, il est crucial de développer des cadres qui garantissent que ces technologies sont utilisées de manière responsable et profitent à l'ensemble de la société.
+
+L'avenir de l'IA est extrêmement prometteur, avec des avancées potentielles dans des domaines tels que l'intelligence artificielle générale, l'intégration de l'informatique quantique et la collaboration homme-IA. Alors que nous continuons à repousser les limites du possible, il est essentiel de maintenir un équilibre entre innovation et responsabilité éthique.
+`.trim();

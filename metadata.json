@@ -1,0 +1,5 @@
+{
+  "name": "DhidarGPT - Assistant IA",
+  "description": "Un assistant IA pour le résumé rapide et le chat conversationnel. Résumez du texte, analysez la complexité et obtenez des informations instantanément avec la puissance de Gemini.",
+  "requestFramePermissions": []
+}
